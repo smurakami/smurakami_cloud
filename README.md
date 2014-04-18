@@ -12,3 +12,8 @@ moyashi
 moyashi
 moyashi
 
+## もやし料理
+- yojinbo
+- なむる
+
+というかおなかすいたね
